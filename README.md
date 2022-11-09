@@ -24,8 +24,8 @@
 |**Dual_sim** | Has dual sim support or not |
 |**Fc** | Front Camera mega pixels|
 |**Four_g** | Has 4G or not|
-|**Int_memory** - Internal Memory in Gigabytes|
-|**M_dep** - Mobile Depth in cm|
+|**Int_memory** | Internal Memory in Gigabytes|
+|**M_dep** | Mobile Depth in cm|
 |**Mobile_wt** | Weight of mobile phone|
 |**N_cores** | Number of cores of processor|
 |**Pc** | Primary Camera mega pixels|
