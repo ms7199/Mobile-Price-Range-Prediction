@@ -41,13 +41,16 @@
 |**Price_range** | This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost). |
 
 ## Observations
+
 * **Before Hyperparameter Tuning**
+---
 
   *Accuracy score on train set is 98.5% and Test score is 89%.
 
   * Model seems to be overfitted as the differance between train and test accuracy score is almost 10%.
 
 * **After Hyperparameter Tuning** 
+---
 
   * Train accuracy remained almost same (98.3%) but the test accuracy score increased to 97%. From this we can say that
 
