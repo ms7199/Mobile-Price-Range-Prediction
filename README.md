@@ -44,7 +44,7 @@
 
 * **Before Hyperparameter Tuning**
 
-  *Accuracy score on train set is 98.5% and Test score is 89%.
+  * Accuracy score on train set is 98.5% and Test score is 89%.
 
   * Model seems to be overfitted as the differance between train and test accuracy score is almost 10%.
 
